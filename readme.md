@@ -4,7 +4,7 @@
 Postupně sem budu přidávat materiály, ze kterých později vytvořím výuková videa (aneb **videa budou**). 
 ### Co tu najdete:
 * Výpisky z hodin ZPRO
-* Řešené úlohy z hodin (vždy až poté, co hodina proběhne, ať vám nedávám spoilery)
+* Řešené úlohy z hodin
 * Další příklady, které mě napadly
 * Řešené vzorové testy a další typové úlohy, co se mohou objevit v písemkách (zatím work in progress)
 * V souboru [motivacni_uloha_1.ipynb](https://github.com/omikron-ceti/Vyukova_videa/blob/master/Lekce_01/motivacni_uloha_1.ipynb) je řešení čehosi, co *nápadně připomíná* zpracování dat na ZM12 a PRA12
